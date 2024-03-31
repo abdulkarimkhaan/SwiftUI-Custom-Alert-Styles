@@ -2,6 +2,8 @@
 
 This SwiftUI package provides a collection of customizable alert styles to elevate your app's user experience. Move beyond the standard alert and create visually appealing and informative alerts that seamlessly integrate with your app's design.
 
+NOTE: These are not default SwiftUI styles.
+
 ## Key Features:
 
 Variety of Alert Styles: Go beyond the basic alert with pre-built styles like confirmation, informational, error, and more (you can specify styles to include).
