@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct IslandNotificationAlertView: View {
+struct NotificationAlertViews: View {
     
     @State var model: AlertData?
     @State var showAlertPop = false
@@ -143,7 +143,7 @@ struct IslandNotificationAlertView: View {
 
 
 #Preview {
-    IslandNotificationAlertView()
+    NotificationAlertViews()
 }
 
 struct AlertData {

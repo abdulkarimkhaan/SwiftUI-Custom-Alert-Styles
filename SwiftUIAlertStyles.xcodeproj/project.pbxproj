@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		842B9F5D2BB9B3DB0086A9E1 /* CardNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842B9F5C2BB9B3DB0086A9E1 /* CardNotificationView.swift */; };
 		84A77BAC2BAFBDFE00DDEA3C /* SwiftUIAlertStylesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A77BAB2BAFBDFE00DDEA3C /* SwiftUIAlertStylesApp.swift */; };
-		84A77BAE2BAFBDFE00DDEA3C /* IslandNotificationAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A77BAD2BAFBDFE00DDEA3C /* IslandNotificationAlertView.swift */; };
+		84A77BAE2BAFBDFE00DDEA3C /* NotificationAlertViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A77BAD2BAFBDFE00DDEA3C /* NotificationAlertViews.swift */; };
 		84A77BB02BAFBE0000DDEA3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A77BAF2BAFBE0000DDEA3C /* Assets.xcassets */; };
 		84A77BB32BAFBE0000DDEA3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A77BB22BAFBE0000DDEA3C /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +18,7 @@
 		842B9F5C2BB9B3DB0086A9E1 /* CardNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardNotificationView.swift; sourceTree = "<group>"; };
 		84A77BA82BAFBDFE00DDEA3C /* SwiftUIAlertStyles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAlertStyles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A77BAB2BAFBDFE00DDEA3C /* SwiftUIAlertStylesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIAlertStylesApp.swift; sourceTree = "<group>"; };
-		84A77BAD2BAFBDFE00DDEA3C /* IslandNotificationAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandNotificationAlertView.swift; sourceTree = "<group>"; };
+		84A77BAD2BAFBDFE00DDEA3C /* NotificationAlertViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationAlertViews.swift; sourceTree = "<group>"; };
 		84A77BAF2BAFBE0000DDEA3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84A77BB22BAFBE0000DDEA3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				84A77BAB2BAFBDFE00DDEA3C /* SwiftUIAlertStylesApp.swift */,
-				84A77BAD2BAFBDFE00DDEA3C /* IslandNotificationAlertView.swift */,
+				84A77BAD2BAFBDFE00DDEA3C /* NotificationAlertViews.swift */,
 				842B9F5C2BB9B3DB0086A9E1 /* CardNotificationView.swift */,
 				84A77BAF2BAFBE0000DDEA3C /* Assets.xcassets */,
 				84A77BB12BAFBE0000DDEA3C /* Preview Content */,
@@ -141,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				842B9F5D2BB9B3DB0086A9E1 /* CardNotificationView.swift in Sources */,
-				84A77BAE2BAFBDFE00DDEA3C /* IslandNotificationAlertView.swift in Sources */,
+				84A77BAE2BAFBDFE00DDEA3C /* NotificationAlertViews.swift in Sources */,
 				84A77BAC2BAFBDFE00DDEA3C /* SwiftUIAlertStylesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

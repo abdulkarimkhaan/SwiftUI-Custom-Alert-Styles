@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIAlertStylesApp: App {
     var body: some Scene {
         WindowGroup {
-            IslandNotificationAlertView()
+            NotificationAlertViews()
         }
     }
 }
