@@ -16,12 +16,17 @@ Improved User Experience: Engaging and informative alerts enhance user interacti
 Consistent Design: Maintain a cohesive look and feel throughout your app with customizable styles.
 Increased Developer Efficiency: Save time by using pre-built styles instead of creating custom alerts from scratch.
 
-## Getting Started:
+## Preview:
 
+
+https://github.com/abdulkarimkhaan/SwiftUIAlertStyles/assets/49764851/d5d61fc3-5d65-43b7-9715-f655c8e89570
+
+
+
+## Getting Started:
 The included README file provides detailed instructions on integrating the package into your SwiftUI project and using the various alert styles.
 
 ## Who is this for?
-
 This package is ideal for SwiftUI developers who want to:
 
 Add a touch of personality and style to their app's alerts.
